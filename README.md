@@ -21,5 +21,5 @@ building real products with Node.js, Express, MongoDB & React.
 **Deployment:** Render · Git  · Vercel
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/seerat-irshad-5b1224269)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://seeratirsh.github.io/01portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seerat-irshad-5b1224269)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://portfolio-kappa-rust-12.vercel.app/)
