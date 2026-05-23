@@ -18,7 +18,7 @@ building real products with Node.js, Express, MongoDB & React.
 **Database:** MongoDB · MySQL  
 **Frontend:** EJS · React (learning) · Bootstrap · HTML/CSS/JS  
 **Tools:** Cloudinary · Razorpay · Passport.js · Mapbox · Nodemailer  
-**Deployment:** Render · Git · Vercel 
+**Deployment:** Render · Git  · Vercel
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/seerat-irshad-5b1224269)
